@@ -15,7 +15,7 @@ public class DemoDay3 {
 		System.out.println("Stash...");
 
 		System.out.println("Pull...");
-		System.out.println("Amos..");
+		System.out.println("Amos sdet class..");
 		
 		
 

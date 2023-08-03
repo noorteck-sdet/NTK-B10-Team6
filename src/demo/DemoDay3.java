@@ -10,5 +10,6 @@ public class DemoDay3 {
 		System.out.println("Today");
 		System.out.println("Adel Zaki");
 		System.out.println("Test1");
+		System.out.println("thursday");
 	}
 }

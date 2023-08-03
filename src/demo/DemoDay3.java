@@ -11,5 +11,11 @@ public class DemoDay3 {
 		System.out.println("Adel Zaki");
 		System.out.println("Test1");
 		System.out.println("Aida Rashidi");
+		
+		System.out.println("fun of Java");
+		
+		System.out.println("tired of Java");
+		
+		System.out.println("Team 6");
 	}
 }

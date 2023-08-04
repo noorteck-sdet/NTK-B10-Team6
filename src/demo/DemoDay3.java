@@ -37,6 +37,7 @@ public class DemoDay3 {
 		
 		System.out.println("Team 6");
 		System.out.println("Test3");
+		System.out.println("Test4");
 
 
 
